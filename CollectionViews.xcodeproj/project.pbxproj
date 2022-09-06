@@ -15,6 +15,7 @@
 		242BCE6028C6969D0061EACD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 242BCE5E28C6969D0061EACD /* LaunchScreen.storyboard */; };
 		245EB83F28C69A8C00BB30DD /* MyCustomCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 245EB83D28C69A8C00BB30DD /* MyCustomCollectionViewCell.swift */; };
 		245EB84028C69A8C00BB30DD /* MyCustomCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 245EB83E28C69A8C00BB30DD /* MyCustomCollectionViewCell.xib */; };
+		24D7FF1228C80B4900986E73 /* CountriesViewAdapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24D7FF1128C80B4900986E73 /* CountriesViewAdapter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		242BCE6128C6969D0061EACD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		245EB83D28C69A8C00BB30DD /* MyCustomCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCustomCollectionViewCell.swift; sourceTree = "<group>"; };
 		245EB83E28C69A8C00BB30DD /* MyCustomCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MyCustomCollectionViewCell.xib; sourceTree = "<group>"; };
+		24D7FF1128C80B4900986E73 /* CountriesViewAdapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountriesViewAdapter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				242BCE5328C6969B0061EACD /* AppDelegate.swift */,
 				242BCE5528C6969B0061EACD /* SceneDelegate.swift */,
 				242BCE5728C6969B0061EACD /* ViewController.swift */,
+				24D7FF1128C80B4900986E73 /* CountriesViewAdapter.swift */,
 				245EB83D28C69A8C00BB30DD /* MyCustomCollectionViewCell.swift */,
 				242BCE5928C6969B0061EACD /* Main.storyboard */,
 				245EB83E28C69A8C00BB30DD /* MyCustomCollectionViewCell.xib */,
@@ -148,6 +151,7 @@
 				242BCE5828C6969B0061EACD /* ViewController.swift in Sources */,
 				242BCE5428C6969B0061EACD /* AppDelegate.swift in Sources */,
 				245EB83F28C69A8C00BB30DD /* MyCustomCollectionViewCell.swift in Sources */,
+				24D7FF1228C80B4900986E73 /* CountriesViewAdapter.swift in Sources */,
 				242BCE5628C6969B0061EACD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

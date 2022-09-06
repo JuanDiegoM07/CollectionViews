@@ -16,7 +16,9 @@ class MyCustomCollectionViewCell: UICollectionViewCell {
     //MARK: - Life cycle view controller
     override func awakeFromNib() {
         super.awakeFromNib()
+        
         backgroundColor = .lightGray
+        
         myFirstLaber.font = UIFont.boldSystemFont(ofSize: 20)
         myFirstLaber.textColor = .blue
  
